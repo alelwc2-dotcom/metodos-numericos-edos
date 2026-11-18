@@ -8,5 +8,18 @@ Implementación modular de los métodos numéricos de **Euler** y **Runge-Kutta 
 
 ## Clonación del Repositorio
 Abre una terminal y ejecuta:
-git clone https://github.com/alelwc2-dotcom/metodos-numericos-edos.git
-cd metodos-numericos-edos
+
+    git clone https://github.com/alelwc2-dotcom/metodos-numericos-edos.git
+    cd metodos-numericos-edos
+
+## Compilación y Ejecución
+
+### 1. Método de Euler ($y' = x - y$)
+
+    javac MetodoEuler.java
+    java MetodoEuler
+
+### 2. Método de Runge-Kutta 4 ($y' = x + y$)
+
+    javac MetodoRungeKutta.java
+    java MetodoRungeKutta
