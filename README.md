@@ -8,6 +8,5 @@ Implementación modular de los métodos numéricos de **Euler** y **Runge-Kutta 
 
 ## Clonación del Repositorio
 Abre una terminal y ejecuta:
-```bash
-git clone [https://github.com/alelwc2-dotcom/NOMBRE-DE-TU-REPO.git](https://github.com/alelwc2-dotcom/NOMBRE-DE-TU-REPO.git)
-cd NOMBRE-DE-TU-REPO
+git clone https://github.com/alelwc2-dotcom/metodos-numericos-edos.git
+cd metodos-numericos-edos
